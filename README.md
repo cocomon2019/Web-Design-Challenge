@@ -12,7 +12,7 @@ In building this dashboard, we created individual pages for each plot and a mean
 
 The website must consist of 7 pages total, including:
 
-* A [landing page](#landing-page) containing:
+* A [landing page](#https://github.com/cocomon2019/Web-Design-Challenge/tree/master/WebVisualizations) containing:
   * An explanation of the project.
   * Links to each visualizations page.
 * Four [visualization pages](#visualization-pages), each with:
